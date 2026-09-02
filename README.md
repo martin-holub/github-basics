@@ -2,4 +2,4 @@
 
 - it is a kind of fun
 - just trying *markdown*
-- how this will be *displayed**
+- how this will be **displayed**
